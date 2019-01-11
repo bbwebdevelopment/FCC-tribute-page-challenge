@@ -1,0 +1,61 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: auto;
+  text-align: center;
+  color: white;
+}
+
+ul {
+  max-width: 600px;
+  margin: auto;
+  text-align: left;
+}
+
+li {
+  margin: 5px;
+}
+
+a {
+  color: whitesmoke;
+}
+
+
+#main {
+  background-image: url("bg.jpeg");
+  background-position: center;
+  background-size: cover;
+  margin: 0;
+  height: 100vh;
+}
+
+#img-div {
+  width: 45%;
+  height: auto;
+  margin: 10px auto;
+  align-content: center;
+}
+
+#image {
+  display: block;
+  margin: auto;
+  max-width: 90%;
+  height: auto;
+  border-radius: 20px;
+}
+
+#img-caption {
+  background: black;
+  opacity: 0.7;
+}
+
+#tribute-info {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+
+
